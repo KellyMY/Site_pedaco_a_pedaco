@@ -1,14 +1,14 @@
 .container{
     font-family: monospace;
-    background: #66ccff;
+    background: #ff9933;
 }
 .camposLogin{
-    float: right;
+    float: left;
     position: relative;
     width: 500px;
     height: 300px;
    /* border: 1px solid #ffff99;*/
-    background: linear-gradient(to top right,#cc66ff,#99ccff);
+    background: linear-gradient(to bottom,white,#B0B0B0);
     border-radius: 30px;
     box-shadow: 0px 10px 15px rgb(225,225,225,0.5);
     text-align: center;
