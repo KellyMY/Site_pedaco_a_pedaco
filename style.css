@@ -1,0 +1,63 @@
+body{
+	background: #808080;
+}
+.inicial img{
+	height: 100%;
+	width: 99%;
+	position: absolute;
+	margin: 0;
+	padding: 0;
+}
+.menuSuperior{
+	color: black;
+	cursor: pointer;
+	position: relative;
+	display: inline;
+}
+
+.menuSuperior ul{
+	text-decoration: none;
+	display: inline;
+}
+.menuSuperior ul li{
+	margin: 10px;
+	padding: 10px;
+	font-size: 14px;
+	display: inline;
+	position: relative;
+	float: right;
+	border: 1px solid black;
+	background: transparent;
+}
+
+.menuSuperior ul #logo{
+	color: orange;
+	padding: 5px;
+}
+.Parte{
+	background: #A8A8A8;
+	border-radius: 15px;
+	position: absolute;
+	font-size: 30px;
+	top: 50%;
+	color: white;
+	float: center;
+	padding: 10px;
+	opacity: 0.7;
+}
+/*Colocar
+	*ajustar imagem do index.html
+	*dar vida ao menu ao tocar
+	*menu responsivel
+	*design responsivel
+	*introduzir uma pagina com tradutor na parte acima da aba
+	*funcao focus para mudar a cor das letras
+	*formulário de preenchimento
+	*calendário
+	*exibição de fotos
+	*exibição de cataloago
+	*pagina com mentarize
+	*paginacom bootStrap
+	*pagina do autor
+
+*/
